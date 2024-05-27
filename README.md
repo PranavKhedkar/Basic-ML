@@ -2,3 +2,5 @@ This repo has basic Machine Learning Models. It provides a great insight for beg
 The Models included are:
 - KMeans
 - Linear Regression - Single variable
+- ARIMA
+- CNN
